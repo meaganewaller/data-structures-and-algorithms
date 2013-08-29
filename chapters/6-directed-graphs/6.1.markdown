@@ -4,4 +4,4 @@
 
   b. By a linked adjacency list with arc costs indicated.
 
-Graph: [image](https://www.evernote.com/shard/s298/sh/986131ad-2e62-4d37-b15c-be7068e8a240/147591a9a2f65c3a6069e49321cce76a)
+Graph: [image- figure 6.38](https://www.evernote.com/shard/s298/sh/986131ad-2e62-4d37-b15c-be7068e8a240/147591a9a2f65c3a6069e49321cce76a)
