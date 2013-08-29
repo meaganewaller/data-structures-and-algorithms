@@ -16,6 +16,6 @@
 
 ### Linked Adjacency List
 
-![Answer](http://note.io/142VXrW)
+![Answer](https://raw.github.com/meaganewaller/data-structures-and-algorithms/master/img/6-1-b.png)
 
 
