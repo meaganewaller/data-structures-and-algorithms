@@ -1,5 +1,7 @@
 # 6.4: Using The Same Graph (Figure 6.38)
 
+  ![Fig 6.38](https://raw.github.com/meaganewaller/data-structures-and-algorithms/master/img/fig-6-38.gif)
+
   a. Use the algorithm *Dijkstra* to find the shortest paths from *a* to the other vertices
 
   b. Use the algorithm *Floyd* to find the shortest distance between all pairs of points. Also construct the matrix *P*that lets us recover the shortest path
