@@ -12,7 +12,7 @@
 
 ### Adjacency Matrix
 
-![Answer](https://www.evernote.com/shard/s298/sh/2d0d8197-7b98-4138-af76-be2361b0d861/bed8ca661dd44403097e03469040e767)
+![Answer](./img/6-1-a-answer.jpg)
 
 
 
