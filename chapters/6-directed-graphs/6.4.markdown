@@ -52,5 +52,4 @@
   end; { Floyd }
 ````
 
-
-
+![Answer](https://raw.github.com/meaganewaller/data-structures-and-algorithms/master/img/6-4-b.png)
