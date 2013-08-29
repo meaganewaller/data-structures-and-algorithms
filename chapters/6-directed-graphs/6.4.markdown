@@ -9,6 +9,28 @@
 
 ### Dijkstra Algorithm
 
+
+````
+  procedure Dijkstra;
+    { Dijkstra computes the costs of the shortest paths
+      from vertex 1 to every vertex of a directed graph }
+  begin
+    S := {1};
+    for i := 2 to n do
+      D[i] := C[1, i]; { initialize D }
+    for i := 1 to n-1 do begin
+      choose a vertex w in V-S such that
+        D[w] is a minimum;
+      add w to S
+      for each vertex v in V-S do
+        D[v] := min(D[v], D[w] + C[w, v])
+    end
+  end; { Dijkstra }
+````
+
+
 Let us apply *Dijkstra* to the directed graph in Fig 6.38
 
-Initially *S* = {a}, D[b] = 3, D[c] = &infin;
+Initially *S* = {a}, D[b] = 3, D[c] = &infin;, D[d] = 4, D[e] = &infin;, D[f] = 5
+
+
