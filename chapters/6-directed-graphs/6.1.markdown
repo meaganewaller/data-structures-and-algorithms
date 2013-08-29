@@ -4,7 +4,8 @@
 
   b. By a linked adjacency list with arc costs indicated.
 
-![Fig 6.38](http://orion.lcg.ufrj.br/Dr.Dobbs/books/book9/images/fig6_38.gif)
+
+  ![Fig 6.38](http://orion.lcg.ufrj.br/Dr.Dobbs/books/book9/images/fig6_38.gif)
 
 *Figure 6.38*
 
