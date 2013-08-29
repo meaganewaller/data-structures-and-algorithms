@@ -28,9 +28,5 @@
   end; { Dijkstra }
 ````
 
-
-Let us apply *Dijkstra* to the directed graph in Fig 6.38
-
-Initially *S* = {a}, D[b] = 3, D[c] = &infin;, D[d] = 4, D[e] = &infin;, D[f] = 5
-
+![Answer](https://raw.github.com/meaganewaller/data-structures-and-algorithms/master/img/6-4-a.png)
 
