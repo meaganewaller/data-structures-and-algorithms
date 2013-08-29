@@ -12,7 +12,7 @@
 
 ### Adjacency Matrix
 
-![Answer](../img/6-1-a-answer.jpg)
+![Answer](img/6-1-a-answer.jpg)
 
 
 
