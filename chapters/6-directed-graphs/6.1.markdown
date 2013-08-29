@@ -12,7 +12,10 @@
 
 ### Adjacency Matrix
 
-![Answer](https://raw.github.com/meaganewaller/data-structures-and-algorithms/master/img/6-1-a-answer.jpg)
+![Answer](https://raw.github.com/meaganewaller/data-structures-and-algorithms/master/img/6-1-a-answer.png)
 
+### Linked Adjacency List
+
+![Answer]
 
 
