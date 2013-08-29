@@ -1,0 +1,17 @@
+# 6.15: Find the Strong Components of Fig 6.38
+
+A strong component of a directed graph is a maximal set of vertices in which there is a path from any one vertex in the set to any other vertex in the set. 
+
+![graph](https://raw.github.com/meaganewaller/data-structures-and-algorithms/master/img/fig-6-38.gif)
+
+[a, d, b]
+
+[e, f, d]
+
+[d, b, c]
+
+[a, f, d]
+
+[b, f, d]
+
+
