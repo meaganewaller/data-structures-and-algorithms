@@ -4,10 +4,11 @@
 
   b. By a linked adjacency list with arc costs indicated.
 
-Graph: [image- figure 6.38](https://www.evernote.com/shard/s298/sh/986131ad-2e62-4d37-b15c-be7068e8a240/147591a9a2f65c3a6069e49321cce76a)
+Graph: [image- figure 6.38](https://www.evernote.com/shard/s298/sh/986131ad-2e62-4d37-b15c-be7068e8a240/147591a9a2f65c3a6069e49321cce76dd)
 
 
-## A: 
+### Adjacency Matrix
 
----
+[answer](https://www.evernote.com/shard/s298/sh/2d0d8197-7b98-4138-af76-be2361b0d861/bed8ca661dd44403097e03469040e767)
+
 
