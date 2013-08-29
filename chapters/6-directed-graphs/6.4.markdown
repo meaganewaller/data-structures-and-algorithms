@@ -30,3 +30,27 @@
 
 ![Answer](https://raw.github.com/meaganewaller/data-structures-and-algorithms/master/img/6-4-a.png)
 
+
+### Floyd Algorithm
+
+````
+  procedure Floyd ( var A: array[1..n, 1..n] of real;
+    C: array[1..n, 1..n] of real );
+  { Floyd computes shortest path matrix A given arc cost matrix C }
+  var
+    i, j, k: integer;
+  begin
+    for i := 1 to n do
+      for j := 1 to n do
+        A[i, j] := C[i, j];
+      for i := 1 to n do
+        A[i,i] := 0;
+      for k := 1 to n do
+        for i := 1 to n do
+          if A[i,k] + A[k, j] < A[i, j] then
+            A[i, j] := A[i, k] + A[k, j]
+  end; { Floyd }
+````
+
+
+
